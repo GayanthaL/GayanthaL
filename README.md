@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **Advanced ML techniques and Neural Networks**.
 - 📝 I regularly write about **AI, ML, and DL** on [my blog](https://aggrandizer.info).
 - 💬 Ask me about **Machine Learning, Deep Learning, and Neural Networks**.
-- 📫 How to reach me: **gayanthalakshan2024@gmail.com**.
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/gayantha-lakshan/).
+- 📫 How to reach me: **gayanthalakshan99@gmail.com**.
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/gayantha-lakshan-3321892a8/).
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
