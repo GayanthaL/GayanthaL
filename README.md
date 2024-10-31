@@ -1,10 +1,10 @@
 # Hi 👋, I'm Gayantha Lakshan
 ### 4th Year Electrical Engineering Student | Machine Learning & Deep Learning Enthusiast
 
-- 🔭 I’m currently working on projects related to **Machine Learning** and **Deep Learning**.
-- 🌱 I’m currently learning **Advanced ML techniques and Neural Networks**.
-- 📝 I regularly write about **AI, ML, and DL** on [my blog](https://aggrandizer.info).
-- 💬 Ask me about **Machine Learning, Deep Learning, and Neural Networks**.
+- 🔭 I’m currently working on projects related to **Machine Learning** and .
+- 🌱 I’m currently learning **Advanced ML techniques, AI and eletronic design**.
+- 📝 I regularly write about **AI, ML, and electronic design** on [my blog](https://aggrandizer.info).
+- 💬 Ask me about **Machine Learning and electrical design**.
 - 📫 How to reach me: **gayanthalakshan99@gmail.com**.
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/gayantha-lakshan-3321892a8/).
 
